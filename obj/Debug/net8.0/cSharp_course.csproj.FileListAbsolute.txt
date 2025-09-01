@@ -12,3 +12,4 @@
 /home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/cSharp_course.pdb
 /home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/cSharp_course.genruntimeconfig.cache
 /home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/ref/cSharp_course.dll
+/home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/cSharp_course.sourcelink.json
