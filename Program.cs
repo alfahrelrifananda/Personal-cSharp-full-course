@@ -35,7 +35,7 @@ public class Program
         comment
         */
 
-        // ** Escape Squence
+        // ** Escape Sequence
         /*
         Console.WriteLine("\t This is would have a tab");
         */
