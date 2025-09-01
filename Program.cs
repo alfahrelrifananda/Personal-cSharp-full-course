@@ -38,6 +38,7 @@ public class Program
         // ** Escape Sequence
         /*
         Console.WriteLine("\t This is would have a tab");
+        Console.ReadKey();
         */
 
         // ! 3.
