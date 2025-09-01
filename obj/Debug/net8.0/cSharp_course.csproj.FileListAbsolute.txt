@@ -1,0 +1,14 @@
+/home/rel/Documents/Development/c#/cSharp_course/bin/Debug/net8.0/cSharp_course
+/home/rel/Documents/Development/c#/cSharp_course/bin/Debug/net8.0/cSharp_course.deps.json
+/home/rel/Documents/Development/c#/cSharp_course/bin/Debug/net8.0/cSharp_course.runtimeconfig.json
+/home/rel/Documents/Development/c#/cSharp_course/bin/Debug/net8.0/cSharp_course.dll
+/home/rel/Documents/Development/c#/cSharp_course/bin/Debug/net8.0/cSharp_course.pdb
+/home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/cSharp_course.GeneratedMSBuildEditorConfig.editorconfig
+/home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/cSharp_course.AssemblyInfoInputs.cache
+/home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/cSharp_course.AssemblyInfo.cs
+/home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/cSharp_course.csproj.CoreCompileInputs.cache
+/home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/cSharp_course.dll
+/home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/refint/cSharp_course.dll
+/home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/cSharp_course.pdb
+/home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/cSharp_course.genruntimeconfig.cache
+/home/rel/Documents/Development/c#/cSharp_course/obj/Debug/net8.0/ref/cSharp_course.dll
