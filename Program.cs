@@ -42,5 +42,20 @@ public class Program
         */
 
         // ! 3.
+        // ** Variable
+        String name = "Fahrel";
+        int age = 20;
+        double height = 174.3;
+        bool isAlive = true;
+        char symbol = '@';
+
+        System.Console.WriteLine("Hello " + name);
+        System.Console.WriteLine("You are " + age + " years old");
+        System.Console.WriteLine("Your height is " + height + " cm");
+        System.Console.WriteLine("Are you alive? " + isAlive);
+        System.Console.WriteLine("Your symbol is " + symbol);
+
+        String userName = symbol + name;
+        System.Console.WriteLine("Your username is " + userName);
     }
 }
