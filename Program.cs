@@ -6,7 +6,7 @@ public class Program
     public static void Main(String[] args)
     {
         // ! 1.
-        // * * Console.Write : Displaying output
+        // * Console.Write : Displaying output
         /*
         Console.WriteLine("This");
         Console.WriteLine("is");
@@ -14,13 +14,13 @@ public class Program
         Console.WriteLine("Nice");
         */
 
-        // * * Console.Write : Outputing sound
+        // * Console.Write : Outputing sound
         /*
         Console.Beep();
         */
 
         // ! 2.
-        // ** Comment and escape sequence
+        // * Comment and escape sequence
         /*
         Console.Write("Hey!");
         Console.WriteLine("Hello");
@@ -35,14 +35,15 @@ public class Program
         comment
         */
 
-        // ** Escape Sequence
+        // * Escape Sequence
         /*
         Console.WriteLine("\t This is would have a tab");
         Console.ReadKey();
         */
 
         // ! 3.
-        // ** Variable
+        // * Variable
+        /*
         String name = "Fahrel";
         int age = 20;
         double height = 174.3;
@@ -57,5 +58,11 @@ public class Program
 
         String userName = symbol + name;
         System.Console.WriteLine("Your username is " + userName);
+        */
+
+        // ! 4.
+        // * Const
+        const double pi = 3.14;
+        System.Console.WriteLine(pi);
     }
 }
