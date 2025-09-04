@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cSharp_course")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+123a2332935a7e3f7c06014fd1bce31b1930e18d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81e3fed1300ffff2ec5527e1c4425fa253e5d897")]
 [assembly: System.Reflection.AssemblyProductAttribute("cSharp_course")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cSharp_course")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

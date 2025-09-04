@@ -62,7 +62,32 @@ public class Program
 
         // ! 4.
         // * Const
+        /*
         const double pi = 3.14;
         System.Console.WriteLine(pi);
+        */
+
+        // ! 5.
+        // * type casting = convert datatype
+        double a = 3.14;
+        int b = Convert.ToInt32(a);
+
+        int c = 5;
+        double d = Convert.ToDouble(c);
+
+        int e = 425;
+        String f = Convert.ToString(e);
+
+        String g = "@";
+        char h = Convert.ToChar(g);
+
+        String i = "false";
+        bool j = Convert.ToBoolean(i);
+
+        System.Console.WriteLine(b.GetType());
+        System.Console.WriteLine(d.GetType());
+        System.Console.WriteLine(f.GetType());
+        System.Console.WriteLine(h.GetType());
+        System.Console.WriteLine(j.GetType());
     }
 }
