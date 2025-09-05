@@ -127,5 +127,8 @@ public class Program
         // friends %= 5;
 
         // System.Console.WriteLine(friends);
+
+        // ! 8.
+        // * 
     }
 }
