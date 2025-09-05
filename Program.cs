@@ -94,6 +94,7 @@ public class Program
 
         // ! 6.
         // * Accept user Input
+        /*
         System.Console.WriteLine("What is your name?");
         String name = Console.ReadLine();
 
@@ -102,5 +103,10 @@ public class Program
 
         System.Console.WriteLine("Hello " + name);
         System.Console.WriteLine("You are " + age + " years old");
+        */
+
+        // ! 7.
+        // * Basic Aritmatics
+        int friends = 6;
     }
 }
