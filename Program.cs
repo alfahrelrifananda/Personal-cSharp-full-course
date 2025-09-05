@@ -69,6 +69,7 @@ public class Program
 
         // ! 5.
         // * type casting = convert datatype
+        /*
         double a = 3.14;
         int b = Convert.ToInt32(a);
 
@@ -89,5 +90,17 @@ public class Program
         System.Console.WriteLine(f.GetType());
         System.Console.WriteLine(h.GetType());
         System.Console.WriteLine(j.GetType());
+        */
+
+        // ! 6.
+        // * Accept user Input
+        System.Console.WriteLine("What is your name?");
+        String name = Console.ReadLine();
+
+        System.Console.WriteLine("What is your age?");
+        int age = Convert.ToInt32(Console.ReadLine());
+
+        System.Console.WriteLine("Hello " + name);
+        System.Console.WriteLine("You are " + age + " years old");
     }
 }
