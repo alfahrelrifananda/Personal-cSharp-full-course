@@ -129,6 +129,5 @@ public class Program
         // System.Console.WriteLine(friends);
 
         // ! 8.
-        // * 
     }
 }
