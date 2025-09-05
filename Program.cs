@@ -108,5 +108,12 @@ public class Program
         // ! 7.
         // * Basic Aritmatics
         int friends = 6;
+
+        // friends = friends + 1;
+        // friends += 1;
+        // friends++;
+
+    
+        System.Console.WriteLine(friends);
     }
 }
