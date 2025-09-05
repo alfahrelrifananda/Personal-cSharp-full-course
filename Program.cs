@@ -107,7 +107,7 @@ public class Program
 
         // ! 7.
         // * Basic Aritmatics
-        int friends = 6;
+        // int friends = 6;
 
         // friends = friends + 1;
         // friends += 1;
@@ -117,8 +117,15 @@ public class Program
         // friends -= 1;
         // friends--;
 
+        // friends = friends * 2;
+        // friends *= 2;
 
-        
-        System.Console.WriteLine(friends);
+        // friends = friends / 2;
+        // friends /= 2;
+
+        // friends = friends % 5;
+        // friends %= 5;
+
+        // System.Console.WriteLine(friends);
     }
 }
