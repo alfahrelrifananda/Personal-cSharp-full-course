@@ -113,7 +113,12 @@ public class Program
         // friends += 1;
         // friends++;
 
-    
+        // friends = friends - 1;
+        // friends -= 1;
+        // friends--;
+
+
+        
         System.Console.WriteLine(friends);
     }
 }
