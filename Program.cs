@@ -129,5 +129,27 @@ public class Program
         // System.Console.WriteLine(friends);
 
         // ! 8.
+        // * Math Class
+        double x = 3.14;
+        double y = 4.54;
+
+        // * Pangkat
+        double a = Math.Pow(x, 2);
+        // * Akar
+        double b = Math.Sqrt(x);
+        // * Berapa dari 0
+        double c = Math.Abs(x);
+        // * Membulatkan
+        double d = Math.Round(x);
+        // * Membulatkan keatas
+        double e = Math.Ceiling(x);
+        // * Membulatkan kebawah
+        double f = Math.Floor(x);
+        // * Mengambil yang terkecil
+        double g = Math.Min(x, y);
+        // * Mengambil yang terbesar
+        double h = Math.Max(x, y);
+
+        System.Console.WriteLine(h);
     }
 }
